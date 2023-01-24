@@ -5,6 +5,6 @@ it('reversing a string',()=>{
 });
 
 it('reversing a string',()=>{
-  expect(reverseString('abc d')).toBe('dcba');
+  expect(reverseString('abc d')).toBe('d cba');
 });
 
